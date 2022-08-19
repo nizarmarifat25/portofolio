@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.201068b5.css",
+    "main.js": "/static/js/main.fbed74b9.js",
+    "static/js/787.b7af92ad.chunk.js": "/static/js/787.b7af92ad.chunk.js",
+    "static/media/geotour-batur.jpeg": "/static/media/geotour-batur.6fa55bf55e6e0b172cfd.jpeg",
+    "static/media/wedding.jpeg": "/static/media/wedding.d414d9eba8486bcf98d3.jpeg",
+    "static/media/zodiak.jpeg": "/static/media/zodiak.e22fe50a8f21afa77061.jpeg",
+    "static/media/shadow.png": "/static/media/shadow.1b00099d89f26eb924d7.png",
+    "static/media/nizar.jpeg": "/static/media/nizar.72ee5eed271d9f626fb6.jpeg",
+    "static/media/SocketSpace-2.png": "/static/media/SocketSpace-2.0fb743c24b3aeea2c7a8.png",
+    "static/media/apps.svg": "/static/media/apps.eb8bbdb249b0e35a1a32702b6f0dda66.svg",
+    "static/media/arya-fire.jpeg": "/static/media/arya-fire.1b2ca316cb3f34453b5d.jpeg",
+    "static/media/gummy-coding.svg": "/static/media/gummy-coding.fda5993ed694d6ebc6ffa9186e7db2b0.svg",
+    "static/media/img2.svg": "/static/media/img2.19d453fec0eea11d7fb01e89f1462012.svg",
+    "static/media/contact-img.svg": "/static/media/contact-img.13c80369250d8f0aff509318d9d484eb.svg",
+    "static/media/skills.svg": "/static/media/skills.3ff9c99f66849fd2b7e3c0386e15e874.svg",
+    "static/media/github.svg": "/static/media/github.c4d7170568fe8df9de6b1477fd85d1ac.svg",
+    "static/media/undraw_projections_re_ulc6.svg": "/static/media/undraw_projections_re_ulc6.196d918254caf8bdc26cfe29d7e421fa.svg",
+    "static/media/vs-code.svg": "/static/media/vs-code.85bd020e9ea533f7d152f1997788cd89.svg",
+    "static/media/img1.svg": "/static/media/img1.06692a3448253a38b6a8112bae21557f.svg",
+    "static/media/php.svg": "/static/media/php.a0d6ffbbe484456438b97e2a639a213f.svg",
+    "static/media/phpmyadmin.svg": "/static/media/phpmyadmin.7a7ca8331d94740193b2e9cfb2b0fb48.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.d2164ef4740435f6e7ec9ce8efb7482b.svg",
+    "static/media/react-js-icon.svg": "/static/media/react-js-icon.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/mysql.svg": "/static/media/mysql.836929ccdb55d27de134960c12fa24da.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.dbd31fe14ec796185689723739441965.svg",
+    "static/media/git.svg": "/static/media/git.f89b0da7fd7814e55770442a0c19f5f2.svg",
+    "index.html": "/index.html",
+    "static/media/js.svg": "/static/media/js.c9f0a72ec86ab6de952b107f64e32cc9.svg",
+    "static/media/html.svg": "/static/media/html.d1add168bfad0343225307ffd57710dd.svg",
+    "static/media/vue-js-icon.svg": "/static/media/vue-js-icon.9f537ef871539b63299dea9ec24182f4.svg",
+    "main.201068b5.css.map": "/static/css/main.201068b5.css.map",
+    "main.fbed74b9.js.map": "/static/js/main.fbed74b9.js.map",
+    "787.b7af92ad.chunk.js.map": "/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201068b5.css",
+    "static/js/main.fbed74b9.js"
+  ]
+}
