@@ -11,12 +11,13 @@ export const Home = () => {
           <h2 className='border-bottom border-secondary text-center border-4 my-4 mx-auto w-25'>About Me</h2>
           <Row className='align-items-center '>
             <Col>
-              <p >Hello! My name is Nizar,I am a graduate from Computer and
+              <p>Hello! My name is Nizar,I am a graduate from Computer and
                 Network Engeenering, currently working
                 as Front End Web Developer. I have
                 been working with a small team to
                 develop website and maintaining good
-                communication between team members and I enjoy creating things that live on the internet. My interest in web development started back in 2021.
+                communication between team members
+                and I enjoy creating things that live on the internet. My interest in web development started back in 2021.
               </p>
             </Col>
             <Col className='text-center'>
