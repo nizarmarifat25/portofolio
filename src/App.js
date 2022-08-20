@@ -14,6 +14,7 @@ function App() {
       <NavbarComp />
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
+        <Route exact path="/portofolio" element={<Home />}></Route>
         <Route exact path="/experience" element={<Experience />}></Route>
         <Route exact path="/projects" element={<Projects />}></Route>
         <Route exact path="/skills" element={<Skills />}></Route>
