@@ -42,7 +42,7 @@ export const Contact = () => {
                 <div className='wrapper-contact'>
                     <Row className='align-items-center'>
                         <Col md={6}>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.9524684263015!2d108.01451871485865!3d-7.014872894932851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68cbbc7dac3ed5%3A0xda16c73776a33f47!2sKp.lame!5e0!3m2!1sid!2sid!4v1660811491895!5m2!1sid!2sid" width="100%" height="400px" allowFullScreen="" style={{ border: 0 }} loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe title="google maps frame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.9524684263015!2d108.01451871485865!3d-7.014872894932851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68cbbc7dac3ed5%3A0xda16c73776a33f47!2sKp.lame!5e0!3m2!1sid!2sid!4v1660811491895!5m2!1sid!2sid" width="100%" height="400px" allowFullScreen="" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                         </Col>
                         <Col className='info my-4'>
                             <h4>
@@ -52,7 +52,7 @@ export const Contact = () => {
                                 <FontAwesomeIcon icon={faEnvelope} className='me-2' /> nizarmarifat253@gmail.com
                             </h4>
                             <h4>
-                                <a href="https://www.instagram.com/nizarmarifat/" target="_blank" className='text-decoration-none text-dark'>
+                                <a href="https://www.instagram.com/nizarmarifat/" target="_blank" rel="noreferrer" className='text-decoration-none text-dark'>
                                     <FontAwesomeIcon icon={faInstagram} className='me-2' target="_blank" /> nizarmarifat
                                 </a>
                             </h4>
