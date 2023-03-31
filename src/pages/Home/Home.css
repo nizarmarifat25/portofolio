@@ -1,0 +1,118 @@
+.home {
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+figure {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+}
+
+.identity {
+    margin-left: 20px;
+    text-align: start;
+}
+.identity span {
+    font-size: 30px;
+    font-weight: 800;
+    display: block;
+    margin-bottom: 10px;
+    box-shadow: inset 0 0 0 0 #fbff00e8;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+.identity span:hover {
+    box-shadow: inset 200px 0 0 0 #fbff00e8;
+    color: white;
+}
+
+.identity i {
+    letter-spacing: 1px;
+}
+
+.social-media {
+    margin-top: 30px;
+}
+
+.social-media a {
+    font-size: 25px;
+    color: white;
+    align-items: center;
+    margin-right: 15px;
+}
+
+
+.photo {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: #21D4FD;
+    ;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+    animation: morphing 5s infinite;
+    overflow: hidden;
+}
+
+.photo img {
+    width: 200px;
+}
+
+@keyframes morphing {
+    0% {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+        box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+    }
+
+    25% {
+        border-radius: 58% 42% 75% 25% / 76% 46% 54% 24%;
+    }
+
+    50% {
+        border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
+        box-shadow: -10px -5px 50px rgba(0, 0, 0, 0.2);
+    }
+
+    75% {
+        border-radius: 33% 67% 58% 42% / 63% 68% 32% 37%;
+    }
+}
+
+
+@media only screen and (min-width: 900px) {
+    .photo {
+        width: 400px;
+        height: 400px;
+    }
+
+    .photo img {
+        width: 400px;
+    }
+
+    .identity span {
+        font-size: 50px;
+    }
+
+    .identity span:hover {
+        box-shadow: inset 400px 0 0 0 #fbff00;
+    }
+
+    .identity i {
+        letter-spacing: 3px;
+    }
+}
